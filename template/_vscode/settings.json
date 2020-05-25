@@ -25,5 +25,9 @@
             "language": "vue",
             "autoFix": true
         }
+    ],
+    "blueprint.templatesPath": [
+        "../blueprint-templates",
+        "./.vscode/blueprint-templates"
     ]
 }
